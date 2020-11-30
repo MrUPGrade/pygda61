@@ -25,7 +25,7 @@ Wikipedia ([https://en.wikipedia.org/wiki/Generative_art](https://en.wikipedia.o
 
 ![1.jpg](content/1.jpg)
 
-![PyGda%20#61%20ea6869c2b1134749a1d15684b912a479/2.jpg](PyGda%20#61%20ea6869c2b1134749a1d15684b912a479/2.jpg)
+![2.jpg](content/2.jpg)
 
 [https://www.youtube.com/watch?v=qtPi0JvmWbs](https://www.youtube.com/watch?v=qtPi0JvmWbs)
 
