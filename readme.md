@@ -63,10 +63,10 @@ Wikipedia ([https://en.wikipedia.org/wiki/Generative_art](https://en.wikipedia.o
 
 ### Materiały
 
-![Processing.org](https://processing.org/)
+[Processing.org](https://processing.org/)
 
-![Processing.py](https://py.processing.org/)
+[Processing.py](https://py.processing.org/)
 
-![Nature of Code](https://natureofcode.com/)
+[Nature of Code](https://natureofcode.com/)
 
 
